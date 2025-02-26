@@ -7,6 +7,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+.python-version
 .Python
 build/
 develop-eggs/
@@ -135,6 +136,11 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+.venv3.13.0/
+
+# IDEA
+
+.idea/
 
 # Spyder project settings
 .spyderproject
